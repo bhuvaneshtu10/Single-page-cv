@@ -28,3 +28,6 @@ This repository collects simple frontend projects referenced from **roadmap.sh**
 1. Clone this repo:
    ```bash
    git clone https://github.com/bhuvaneshtu10/roadmap.projects.git
+2. Open project folders in your editor
+
+3. Run or deploy live for experience
